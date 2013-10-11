@@ -1,0 +1,6 @@
+name = Maze JS Integration
+description = "Libraries integration for mazejs"
+core = 7.x
+package = Library Integration
+
+dependencies[] = libraries
