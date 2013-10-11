@@ -9,6 +9,7 @@ function lib_mazejs_libraries_info() {
       'name' => 'Maze JS',
       'vendor url' => 'http://www.ottawadeveloper.com',
       'download url' => 'https://github.com/ottawadeveloper/mazejs',
+      'version' => 1,
       'files' => array(
         'js' => array('jquery.maze.js'),
         'css' => array('jquery.maze.css'),
